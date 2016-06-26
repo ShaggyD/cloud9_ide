@@ -8,5 +8,5 @@ source code directory.
 ```
 docker run --rm -it -p 80:80 -v `pwd`:/workspace/ shaggyd/cloud9_ide
 ```
-When you exit the container it will clean up after its self. 
+When you exit the container it will clean up after itself. 
 
